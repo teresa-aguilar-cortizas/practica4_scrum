@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+joblib
+pytest
+black
+flake8
